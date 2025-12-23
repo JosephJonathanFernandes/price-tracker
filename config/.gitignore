@@ -1,0 +1,8 @@
+# Ignore secrets and environment files
+secrets.toml
+.env
+*.pyc
+__pycache__/
+.venv/
+.idea/
+.DS_Store
